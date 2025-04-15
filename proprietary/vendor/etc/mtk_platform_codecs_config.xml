@@ -87,6 +87,5 @@
                type="image/vnd.android.heic"
                driverIntf="v4l2"
                maxConcurrentInstances="2" />
-        <MediaCodec name="c2.dolby.avc.decoder" type="video/avc" />
     </Encoders>
 </MediaCodecs>
